@@ -1,0 +1,65 @@
+Mine à emeuraude :
+	Mine où vit un dangereux nécromancien qui exploite ses invocations pour miner de l'emeuraude
+
+	(HOSTILE) Emerald_skeleton = mineurs (5 ou 6)
+	(HOSTILE) Esclavagist = nécromancien (1)
+
+	(PETIT) Mine
+
+Orphelinat des champs de grace :
+	Orphelinat saint géré par la mère Michelle
+
+	(ALLIÉ) child[nbr] = enfants (10)
+	(ALLIÉ)  = mère Michelle (1)
+
+	(BOSS)  = Mohammed Hannakin (1)
+
+	(PETIT) Intérieur
+	(MOYEN) Cour extérieure
+
+Cimetière d'Hin-Dien :
+	Cimetière réservé à la famille noble des "Hin-Dien" et leurs amis proches
+
+	(ALLIÉ)  = Fossoyeur (1)
+
+	(HOSTILE) Z_guard = guarde zombie (1)
+	(HOSTILE) Z_mage = mage zombie (1)
+	(HOSTILE) Z_recent = noble zombie (1)
+	(HOSTILE) Z_nul = ancien zombie (6)
+
+	(MOYEN) Cimetière
+	(TRES PETIT) Cabane du fossoyeur
+
+Tour de Necrosia :
+	Tour du défunt necromancien Necrosia maudite et donc infestée de ses squelettes très aggressifs
+
+	(ALLIÉ)  = Fantome de Necrosia 
+
+	(HOSTILE) S_archer = archer (4)
+	(HOSTILE)  = assassin (3)
+	(MINI BOSS)  = berserker (1)
+	(BOSS)  = loup de Necrosia (1)
+
+	(PETIT) Rez-de-chaussée
+	(PETIT) Étage 1
+	(PETIT) Étage 2
+	(PETIT) Étage 3
+	(PETIT) Bureau de Necrosia
+
+Bibliothèque royale :
+	La plus grande bibliothèque du royaume où sont stockés tout les ouvrages et reliques magiques les plus rares
+
+	(ALLIÉ)  = employés (5)
+	(ALLIÉ)  = garde royal (1)
+
+	(HOSTILE)  = épée maudite réveillée (4)
+	(HOSTILE)  = baton enchanté (1)
+	(HOSTILE)  = couteau de lancer hanté (7)
+	(BOSS)  = trident royal (1)
+	(BOSS)  = sceptre du dieu du volcan (1)
+	(BOSS)  = pieu saint (1)
+
+	(GRAND) Bibliothèque principal
+	(MOYEN) Archives magiques
+	(PETIT) Couloir des scéllés
+	(MOYEN) Salle des trophées

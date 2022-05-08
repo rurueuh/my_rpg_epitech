@@ -1,0 +1,27 @@
+Lore :
+
+	Nom : Brad Idari
+	Age : 35 ans
+	Passion : Jardinnage et chasse
+	Equipement : Hache de contrefaçon, Bouteilles de Scotch, Mégaphone poussiéreux
+	Info supplémentaire : Prend beaucoup de précaussions
+	But : Chasser une bête alpha
+
+Particularités :
+
+	Talents :
+			- Frappe fort (ATK de base la plus haute du jeu)
+			- Fait plus de degats contre des betes (1,5x les degats de base)
+			- Ne peut pas prendre de recul (contre n'importe quel ennemi)
+
+	Inconvénients :
+			- Lent (vitesse de l'aventurière x 0,75)
+			- Fait moins mal aux humanoïdes (0,5x les degats de base)
+			- Doit se reposer après beaucoup d'efforts (2sec de stun après 3 coups de hache conssécutifs)
+
+	Compétences :
+			- Action spéciale = Boit son alcool ce qui réduit les prochains dégats subis de moitié (5 sec)
+			- Attaque = Coup de hache dans la direction où il regarde et peut etre chargée (CD = 1 sec)
+			- Dash = Course qui pousse et inflige des dégats aux ennemis touchés (CD = 5 sec si pas de collision sinon 10 sec)
+			- Utilitaire = Cri dans son mégaphone pour étourdir les ennemis pendant la durée où il cri (CD = 20 sec + temps passé a crier)
+			- Ultime = Inflige des degats et ralentit les ennemis proches de lui (CD = 40 sec)

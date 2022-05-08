@@ -1,0 +1,28 @@
+Lore :
+
+	Nom : PD-8 (Punks Destroyer 8ème du nom)
+	Age : 1 semaine
+	Passion : Meurtre de "Punks"
+	Equipement : Katana rouillé, Lentilles infra-rouges féllées, Téléporteur de poche
+	Info supplémentaire : Identifie toutes les menaces pour lui ou pour ses alliées comme des "Punks"
+	But : Retrouver son créateur
+
+Particularités :
+
+	Talents : 	
+			- Très rapide (2x plus que l'aventurière)
+		  	- Peut trancher les projectiles (Seulement avec son attaque de base)
+		  	- Peut attaquer en courant (Mais pas pendant le rechargement de la roulade)
+
+	Inconvénients :
+			- Moins d'HP (3/4 de l'aventurière)
+			- Champs de vision réduit (-20° ou -15°)
+			- Dégats passables (Tue tout les ennemis avec 1 coup de + que l'aventurière)
+
+	Compétences :
+			- Action spéciale = Cours (Infini)
+			- Attaque = Coup de katana dans la direction ou il regarde (CD = 1 sec)
+			- Dash = Roulade longue dans la direction ou il regarde (CD = 3sec)
+			- Utilitaire = Fait apparaitre pendant 1 seconde tout les ennemis autour de lui (CD = 20sec)
+			- Compétence offensive = Lance un couteau (CD = 2sec)
+			- Ultime = Pendant 5 secondes ses attaques ignorent l'armure (CD = 30sec)

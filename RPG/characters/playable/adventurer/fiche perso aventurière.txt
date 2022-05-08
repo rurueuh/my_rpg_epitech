@@ -1,0 +1,28 @@
+Lore :
+
+	Nom : Tomiel Naya'ak
+	Age : 29 ans
+	Passion : Exploration de lieus inhabités
+	Equipement : Réplique de sabre, Réplique de Lanterne, Trousse de soin
+	Info supplémentaire : A une très grande estime d'elle-meme
+	But : Faire une découverte pour devenir celebre
+
+Particularités :
+
+	Talents :
+			- Stats dans la moyenne (12 HP | ATK moyenne)
+			- A un moment d'invincibilité après avoir pris un dégat (2sec peu importe les degats)
+			- Voit autour d'elle (Petit cercle autour d'elle puis arc de cercle devant)
+
+	Inconvénients :
+			- Frappe lentement (Petite animation d'attaque chiante)
+			- Vitesse égale à celle des ennemis de vitesse moyenne (Ne peut pas fuir)
+			- Met du recul sur l'ennemi (N'est plus en portée après 3 coups)
+
+	Compétences : 	
+			- Action spéciale = Change son mode de vision (rond autour et arc de cercle normal ou arc de cercle + 15° | infini)
+			- Attaque = Coup d'épée lent dans la direction ou elle regarde (CD = 1 sec après la fin de l'anim)
+			- Dash = Sprint pendant 1,5 secondes dans la direction où elle regarde sans pouvoir s'arreter (CD = 4 sec)
+			- Utilitaire = Soigne l'allié de 2 HP si elle le regarde ou se soigne de 4 HP sinon (CD = 15sec)
+			- Compétence offensive = sa prochaine attaque fait un combo de 3 attaques (CD = 10sec)
+			- Ultime = Fais bruler les ennemis dans son champs de vision pendant 4 secondes (CD = 30sec)
